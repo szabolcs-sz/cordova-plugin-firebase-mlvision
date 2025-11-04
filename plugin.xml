@@ -19,15 +19,8 @@
         <source-file src="src/ios/FirebaseVisionPlugin.swift"/>
         <source-file src="src/ios/FirebaseExtensions.swift"/>
 
-        <podspec>
-            <config>
-                <source url="https://cdn.cocoapods.org/"/>
-            </config>
-            <pods use-frameworks="true">
-                <pod name="MLKitTextRecognition" spec="7.0.0"/>
-                <pod name="MLKitBarcodeScanning" spec="8.0.0"/>
-            </pods>
-        </podspec>
+        <pod name="MLKitTextRecognition" spec="7.0.0" />
+        <pod name="MLKitBarcodeScanning" spec="8.0.0" />
     </platform>
 
     <platform name="android">
