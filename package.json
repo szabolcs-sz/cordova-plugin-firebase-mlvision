@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-firebase-mlvision",
+  "version": "0.3.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-firebase-mlvision",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "firebase",
+    "mlkit",
+    "ocr",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Rubén Alonso",
+  "license": "MIT",
+  "homepage": "https://github.com/alon22/cordova-plugin-firebase-mlvision#README",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alon22/cordova-plugin-firebase-mlvision"
+  }
+}
